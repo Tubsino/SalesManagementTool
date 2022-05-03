@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 186E-8171
+
+ Directory of C:\Users\Bluechip\eclipse-workspace\SMT\src\test
+
+05/03/2022  04:42 PM    <DIR>          .
+05/03/2022  04:42 PM    <DIR>          ..
+04/01/2022  05:28 AM    <DIR>          java
+04/01/2022  05:16 AM    <DIR>          resources
+05/03/2022  04:42 PM                 0 text.txt
+               1 File(s)              0 bytes
+               4 Dir(s)  152,708,124,672 bytes free
